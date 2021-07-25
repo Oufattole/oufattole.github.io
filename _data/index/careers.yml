@@ -1,0 +1,31 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Google
+  link: http://www.google.com/
+  date: Summer, 2021 #<i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Research Intern
+
+- name: Google
+  link: http://www.google.com/
+  date: Summer, 2020
+  job: Software Engineering Intern
+
+- name: MIT Driverless
+  link: http://driverless.mit.edu/
+  date: 2019-2020
+  job: EP Intern
+
+- name: Google
+  link: http://www.google.com/
+  date: Summer, 2019
+  job: EP Intern
+
+- name: Wise Systems
+  link: https://www.wisesystems.com/
+  date: January-February 2019
+  job: Software Engineering Intern
+
+- name: Keystone Technologies
+  link: https://keystonetechnologies.com/
+  date: Summer 2017
+  job: Software Engineering Intern
